@@ -1,0 +1,22 @@
+.App {
+    height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+}
+
+.Pokedex {
+    text-align: center;
+
+}
+
+.Pokedex-title {
+    color: rgb(171, 171, 171)
+}
+
+.Pokedex-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
